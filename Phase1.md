@@ -53,7 +53,7 @@ Tarkistin että asennus oli sujunut ongelmitta ja prompti palauttaa version:
 
 Access key, secret access key ja session token -tiedot hain aws academy -sivustolta Learner Lab osiosta (AWS Details > Cloud Access > AWS CLI)
 
-<img width="622" height="395" alt="image" src="https://github.com/user-attachments/assets/12e1a3bf-61bc-4bc3-aa3c-2b0c388431d4" />
+<img width="608" height="384" alt="image" src="https://github.com/user-attachments/assets/f947e607-77d7-4ee7-8617-4050ed8f6c51" />
 
 ## AWS CLI konfigurointi
 
