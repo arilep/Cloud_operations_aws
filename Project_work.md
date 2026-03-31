@@ -64,7 +64,7 @@ Include the cloud management and governance functions (like monitoring, scaling,
 
 ### Vaihe 1 Toteutus ja validointi
 
-Linkki
+Vaihe 1 Toteutus ja validointi: [Linkki](https://github.com/arilep/Cloud_operations_aws/blob/main/Phase1.md)
 
 ### Vaihe 2 Toteutus ja validointi
 
@@ -109,7 +109,7 @@ Comparison to Alternatives (why this approach?)
 
 ## Liitteet
 
-Linkki
+Omia muistiinpanoja projektityötä varten [Linkki](https://github.com/arilep/Cloud_operations_aws/blob/main/Commands.md)
 
 ---
 
