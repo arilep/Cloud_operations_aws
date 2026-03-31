@@ -109,7 +109,7 @@ Comparison to Alternatives (why this approach?)
 
 ## Liitteet
 
-Omia muistiinpanoja projektityötä varten [Linkki](https://github.com/arilep/Cloud_operations_aws/blob/main/Commands.md)
+Omia muistiinpanoja projektityötä varten: [Linkki](https://github.com/arilep/Cloud_operations_aws/blob/main/Commands.md)
 
 ---
 
