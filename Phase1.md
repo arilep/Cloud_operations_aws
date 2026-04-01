@@ -49,11 +49,11 @@ Tarkistin että asennus oli sujunut ongelmitta ja prompti palauttaa version:
 
 # AWS konfiguraatio
 
-## aws credentiaalit
+## Aws credentiaalit
 
 Access key, secret access key ja session token -tiedot hain aws academy -sivustolta Learner Lab osiosta (AWS Details > Cloud Access > AWS CLI)
 
-<img width="608" height="384" alt="image" src="https://github.com/user-attachments/assets/f947e607-77d7-4ee7-8617-4050ed8f6c51" />
+<img width="611" height="395" alt="image" src="https://github.com/user-attachments/assets/b0911ee5-4e83-4f38-8d5b-caead9edd3ce" />
 
 ## AWS CLI konfigurointi
 
@@ -61,7 +61,7 @@ Konfiguroidaan AWS CLI, annetaan access key, secret access key ja session token.
 
     aws configure
 
-<img width="647" height="224" alt="image" src="https://github.com/user-attachments/assets/0798455a-4b9f-44f0-808e-defdecc0ce60" />
+<img width="646" height="219" alt="image" src="https://github.com/user-attachments/assets/cab08ad1-2a6b-4d26-92dd-256c16753123" />
 
 ## AWS CLI konfiguraation tarkistus
 
@@ -69,7 +69,8 @@ Komennolla `aws configure list` voidaan vielä silmäillä konfiguraatiota:
 
     aws configure list
 
-<img width="641" height="160" alt="image" src="https://github.com/user-attachments/assets/31744c09-a7bd-46ba-be21-5cf079eafb63" />
+<img width="647" height="221" alt="image" src="https://github.com/user-attachments/assets/92e4f9c5-3510-4eda-a818-0e53107b5a74" />
+
 
 
 # S3 Bucketit
